@@ -1,3 +1,4 @@
+
 # CitiBike_Tableau_Visualization
 
 Data visualization and analysis on the New York Citi Bike Program for the year 2017
@@ -9,4 +10,5 @@ This [Citi Bike Data](https://www.citibikenyc.com/system-data) has been engineer
 ## Technology Used
 
 Python | Jupyter Notebook | Tableau
+
 
